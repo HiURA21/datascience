@@ -1,0 +1,5 @@
+Algoritma yang dipakai: Convolutional Neural Network (CNN)
+
+
+link dataset https:
+//www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
